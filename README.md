@@ -50,24 +50,13 @@ made by [Smashicons](https://www.flaticon.com/authors/smashicons) from [www.flat
 - [Retrofit](http://square.github.io/retrofit/) for REST api communication
 - [Picasso](http://square.github.io/picasso/) for image loading
 
-## Video
-Here is the link to view a video demonstrating the app: https://youtu.be/1eFfdmHGKMw
 
-## Get it on Google Play
-**Popular Movies** app gives you information about movies from the TMDb. See what movies are the most popular and high rated. You can also discover Now Playing or Upcoming movies. Popular Movies app will help you decide what to watch.👍
-
-[![google-play-badge](https://user-images.githubusercontent.com/33213229/59287668-13be9a00-8cad-11e9-9a13-b62a4f562cfd.png)](https://play.google.com/store/apps/details?id=com.soojeongshin.popularmovies.free)
-[![ic_launcher](https://user-images.githubusercontent.com/33213229/59288297-72d0de80-8cae-11e9-9c58-25828f6e6ae6.png)](https://play.google.com/store/apps/details?id=com.soojeongshin.popularmovies.free)
 
  * Added search features so that you can search for movies by keyword
  * Integrated Firebase Analytics, Crashlytics, Firebase AdMob
- * Created a launcher icon using Adobe Photoshop
  
-**Popular Movies uses the TMDb API but is not endorsed or certified by TMDb.**
  
-I learned how to link my app to Google AdMob, design an app icon, how to reply on the feedback on improvements, and use the Google Play Console to manage my app. If you like my **Popular Movies** app, you can download it on Google Play.
-[Download Link](https://play.google.com/store/apps/details?id=com.soojeongshin.popularmovies.free).
-If you have any suggestions or issues, please write to me at pinkbee.dev@gmail.com. Thanks.
+
 
 ## Screenshots
 ![popular-movies-main](https://user-images.githubusercontent.com/33213229/49940286-757e9100-ff22-11e8-897a-45ba561df250.png)![popular-movies-detail](https://user-images.githubusercontent.com/33213229/49940281-71527380-ff22-11e8-935b-7e2d4138d979.png)![popular-movies-info](https://user-images.githubusercontent.com/33213229/49940285-73b4cd80-ff22-11e8-9ca1-b379e06b90bc.png)
